@@ -86,5 +86,7 @@ CacheKill is packaged as a .exe application using Nuitka and then bundled with a
 Have questions, bugs, or feature requests?
 
 📩 Email: neskorlabs@gmail.com
+
 🌐 Website: https://neskorlabs.store/
+
 🐙 GitHub: https://github.com/Mohanraj0007/CacheKill
