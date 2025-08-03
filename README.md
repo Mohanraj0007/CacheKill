@@ -90,3 +90,8 @@ Have questions, bugs, or feature requests?
 🌐 Website: https://neskorlabs.store/
 
 🐙 GitHub: https://github.com/Mohanraj0007/CacheKill
+
+
+---
+
+© 2025 Neskor Labs. All rights reserved.
