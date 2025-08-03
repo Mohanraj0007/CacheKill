@@ -1,88 +1,90 @@
-🧹 CacheKill
+# 🧹 CacheKill
+
 CacheKill is a lightweight, elegant Windows utility designed to help you delete all files from multiple saved folder paths with just one click. It’s perfect for clearing cache folders, temporary data, or any directories that frequently need cleanup.
 
-🧰 Key Features
-✅ Save multiple folder paths for repeated use
+## 🧰 Key Features
+  
+ - ✅ Save multiple folder paths for repeated use
+  
+ - ➕ Add folders via direct input or file browser
+  
+ - 🗑️ Delete all files from saved paths in one go
+  
+ - ⚠️ Option to skip undeletable files or prompt user for action
+  
+ - 🔒 Choose between Permanent Delete or move to Recycle Bin
+  
+ - ❌ Remove individual paths from the saved list
+  
+ - 🔄 Built-in Check for Updates feature via GitHub
+  
+ - 🖼️ Custom title bar and professional UI using PySide6
+  
+ - ♻️ Automatically loads saved paths on every launch
 
-➕ Add folders via direct input or file browser
+## 💻 How to Install
 
-🗑️ Delete all files from saved paths in one go
-
-⚠️ Option to skip undeletable files or prompt user for action
-
-🔒 Choose between Permanent Delete or move to Recycle Bin
-
-❌ Remove individual paths from the saved list
-
-🔄 Built-in Check for Updates feature via GitHub
-
-🖼️ Custom title bar and professional UI using PySide6
-
-♻️ Automatically loads saved paths on every launch
-
-💻 How to Install
 CacheKill is packaged as a .exe application using Nuitka and then bundled with an installer via Inno Setup.
 
-Installation Steps:
-Download the Installer
+**Installation Steps:**
 
-Visit https://neskorlabs.store/CacheKill
+1. **Download the Installer**
 
-OR click the "Check for Updates" button in the app to get the latest version.
+- Visit https://yourdomain.com/latest_installer.exe
 
-Run the Installer
+- OR click the "Check for Updates" button in the app to get the latest version.
 
-Double-click the downloaded .exe file.
+2. **Run the Installer**
 
-Follow the installation steps in the setup wizard.
+- Double-click the downloaded .exe file.
 
-Launch the App
+- Follow the installation steps in the setup wizard.
 
-After installation, launch CacheKill from your desktop/start menu.
+3. **Launch the App**
 
-📦 How to Use
-First Launch
+- After installation, launch CacheKill from your desktop/start menu.
 
-You will see "No Saved Paths" with a ➕ icon.
+## 📦 How to Use
+1. **First Launch**
 
-Add Folder Path
+- You will see "No Saved Paths" with a ➕ icon.
 
-Click ➕ to open the input field and Browse button.
+2. **Add Folder Path**
 
-Enter or select the folder path you want to add.
+- Click ➕ to open the input field and Browse button.
 
-Click Add to save it in the list.
+- Enter or select the folder path you want to add.
 
-Delete Files
+- Click Add to save it in the list.
 
-Choose between "Permanent Delete" or "Move to Trash".
+3. **Delete Files**
 
-The Skip if not deletable checkbox is checked by default.
+- Choose between "Permanent Delete" or "Move to Trash".
 
-Click Delete to delete files from all listed folders.
+- The Skip if not deletable checkbox is checked by default.
 
-Manage Saved Paths
+- Click Delete to delete files from all listed folders.
 
-Remove any saved path using the ❌ button next to it.
+4. **Manage Saved Paths**
 
-Check for Updates
+- Remove any saved path using the ❌ button next to it.
 
-Click the Check for Updates option near the title to verify if a newer version is available.
+- Check for Updates
 
-📝 Notes
-Files only (not folders) will be deleted from the saved paths.
+- Click the Check for Updates option near the title to verify if a newer version is available.
 
-Paths are saved locally for persistent use.
+## 📝 Notes
+- Files only (not folders) will be deleted from the saved paths.
 
-Ensure you have proper permissions to delete files in the selected directories.
+- Paths are saved locally for persistent use.
 
-If "Skip undeletable files" is unchecked, you will be prompted for each file that can't be deleted.
+- Ensure you have proper permissions to delete files in the selected directories.
 
-🙋 Support & Feedback
+- If "Skip undeletable files" is unchecked, you will be prompted for each file that can't be deleted.
+
+## 🙋 Support & Feedback
 Have questions, bugs, or feature requests?
 
 📩 Email: neskorlabs@gmail.com
 🌐 Website: https://neskorlabs.store/
 🐙 GitHub: https://github.com/Mohanraj0007/CacheKill
-
-Let me know if you'd like this saved into a file or shown in the app UI as well.
